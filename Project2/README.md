@@ -5,7 +5,7 @@
   
 ## Phần cứng 
 Trong dự án này, em sử dụng board ESP32 Devkit v1:
-    - Con chip ESP32 kiến trúc xtensa, lõi kép
+    - Con chip ESP32 
     - Tích hợp Blue LED vào chân GPIO02, active level = HIGH 
     - Tích hợp nút bấm (BOOT) vào chân GPIO00, active level = LOW
 
